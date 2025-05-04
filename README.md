@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Richie Singh</h1>
 
 <p align="center">
-  AI Software Engineer • Open-Source Contributor • Startup Builder
+  AI Software Engineer • Open-Source Contributor • Startup Enthusiast • AI Researcher
 </p>
 
 ---
@@ -9,11 +9,11 @@
 I'm an AI software engineer focused on shipping real-world systems that blend high performance with rapid iteration. I’ve worked on LLM-integrated backends, inference engines, and AI-powered tools—plus contributed to open-source projects at GitLab and Marvel.
 
 I’m currently building at **StreamGale**, where I’m working on:
-- ⚙️ A **Rust-based inference engine** deployed at the edge
-- 🛰️ Real-time data streaming pipelines
-- 🧠 Federated learning with lightweight client-server AI
+- ⚙️ A **Rust-based inference engine** deployed at the edge  
+- 🛰️ Real-time data streaming pipelines  
+- 🧠 Federated learning with lightweight client-server AI  
 
-In 2025, I also won a national AI + data science hackathon, featured in **Times Square** and **1871** — building rapid prototypes that actually worked in production.
+In 2024, I also won a national AI + data science hackathon - featured in [**Times Square**](https://www.linkedin.com/feed/update/urn:li:activity:7193663891158061057/) and [**1871**](https://www.linkedin.com/feed/update/urn:li:activity:7257032180856496128/), a national competitive programming contest.
 
 ---
 
@@ -49,8 +49,8 @@ In 2025, I also won a national AI + data science hackathon, featured in **Times 
 
 ### 🧪 Testing & Linting  
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat)
+![Cargo Test](https://img.shields.io/badge/Cargo_Test-000000?style=flat&logo=rust&logoColor=white)
 ![RuboCop](https://img.shields.io/badge/RuboCop-CC342D?style=flat)
-![Black](https://img.shields.io/badge/Black-000000?style=flat)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint)
 
@@ -58,20 +58,20 @@ In 2025, I also won a national AI + data science hackathon, featured in **Times 
 
 ## 📈 Recent Highlights
 
-- 🥇 **Winner**, National AI & Data Science Hackathon (featured in Times Square + 1871)
-- 🔧 **StreamGale**: Real-time AI infra using Rust and MQTT for edge inference
-- 🚀 **Reality AI**: Built LLM-powered backend tools
-- 📦 **Marvel Platform**: Maintained open-source platform for collaborative research tools
-- 🌍 **GitLab Contributor**: Fixed bugs, wrote tests, worked on GraphQL & RuboCop pipelines
+- 🥇 **Winner**, AI & Data Science Hackathon and National Competitive Programming Competition (featured in [Times Square](https://www.linkedin.com/feed/update/urn:li:activity:7193663891158061057/) + [1871](https://www.linkedin.com/feed/update/urn:li:activity:7257032180856496128/))  
+- 🔧 **StreamGale**: Real-time AI infra using Rust and MQTT for edge inference  
+- 🚀 **Reality AI**: Built LLM-powered backend tools  
+- 📦 **Marvel Platform**: Maintained open-source platform for collaborative research tools  
+- 🌍 **GitLab Contributor**: Fixed bugs, wrote tests, worked on GraphQL & RuboCop pipelines  
 
 ---
 
 ## 📬 Let’s Connect
 
-- [Email](mailto:richie.amornchotsingh@gmail.com)
-- [LinkedIn](https://linkedin.com/in/richieamornchotsingh)
-- [Portfolio](https://hicounselor.com/portfolio/Richie/OTM3NDI=)
-- [GitHub](https://github.com/richiectr360)
+- [Email](mailto:richie.amornchotsingh@gmail.com)  
+- [LinkedIn](https://linkedin.com/in/richieamornchotsingh)  
+- [Portfolio](https://hicounselor.com/portfolio/Richie/OTM3NDI=)  
+- [GitHub](https://github.com/richiectr360)  
 
 ---
 
