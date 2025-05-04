@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Richie Singh</h1>
 
 <p align="center">
-  AI Software Engineer • Open-Source Contributor • Startup Enthusiast • AI Researcher
+  AI Engineer • AI Researcher  •Open-Source Contributor • Systems Hacker • Startup-Minded Builder
 </p>
 
 ---
@@ -62,7 +62,7 @@ In 2024, I also won a national AI + data science hackathon - featured in [**Time
 - 🔧 **StreamGale**: Real-time AI infra using Rust and MQTT for edge inference  
 - 🚀 **Reality AI**: Built LLM-powered backend tools  
 - 📦 **Marvel Platform**: Maintained open-source platform for collaborative research tools  
-- 🌍 **GitLab Contributor**: Fixed bugs, wrote tests, worked on GraphQL & RuboCop pipelines  
+- 🌍 **[GitLab Contributor](https://gitlab.com/richie_ctr360)**: Wrote tests, resolved issues, and contributed to GraphQL & RuboCop pipelines
 
 ---
 
