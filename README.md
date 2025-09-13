@@ -1,19 +1,31 @@
 <h1 align="center">👋 Hey, I'm Richie Singh</h1>
 
 <p align="center">
-  AI Engineer • AI Researcher  •Open-Source Contributor • Systems Hacker • Startup-Minded Builder
+  AI Engineer • AI Researcher • Open-Source Contributor • Systems Hacker • Startup-Minded Builder
 </p>
 
 ---
 
-I'm an AI software engineer focused on shipping real-world systems that blend high performance with rapid iteration. I’ve worked on LLM-integrated backends, inference engines, and AI-powered tools—plus contributed to open-source projects at GitLab and Marvel.
+I'm an AI software engineer focused on shipping real-world systems that blend high performance with rapid iteration. I’ve worked on LLM-integrated backends, prompt orchestration protocols, memory management systems, and AI-powered internal tools—plus contributed to open-source projects at GitLab and Marvel.
 
-I’m currently building at **StreamGale**, where I’m working on:
-- ⚙️ A **Rust-based inference engine** deployed at the edge  
-- 🛰️ Real-time data streaming pipelines  
-- 🧠 Federated learning with lightweight client-server AI  
+### 💼 I currently lead AI infra + backend engineering at **Moonnox**, a VC-backed startup building enterprise LLM agents.
 
-In 2024, I also won a national AI + data science hackathon - featured in [**Times Square**](https://www.linkedin.com/feed/update/urn:li:activity:7193663891158061057/) and [**1871**](https://www.linkedin.com/feed/update/urn:li:activity:7257032180856496128/), a national competitive programming contest.
+At Moonnox, I:
+- 🧠 Designed and deployed **stateless LLM APIs** on AWS Lambda & FastAPI  
+- 🧮 Built a **Supabase-backed multi-turn memory engine** to improve agent context retention  
+- 🔗 Created a **Model Context Protocol (MCP)** to sync prompt memory across tools like Salesforce, Notion, Jira, and SharePoint  
+- 📉 Implemented **latency monitoring + error tracing** with Datadog + PostHog  
+- 🚀 Overhauled CI/CD pipelines across GCP to reduce deploy time from 30m → <5m  
+- 📊 Built internal scoring tools to track **agent hallucination, drift, and task completion**
+
+I work closely with our CTO and frontend team to ship fast, debug hard problems, and iterate directly with real users.
+
+On the side, I contribute to **StreamGale**, a Rust-based AI infra project for:
+- ⚙️ Low-latency inference at the edge  
+- 🛰️ MQTT-based real-time streaming pipelines  
+- 🧠 Lightweight federated learning across devices  
+
+In 2024, I also won a national AI + data science hackathon — featured in [**Times Square**](https://www.linkedin.com/feed/update/urn:li:activity:7193663891158061057/) and [**1871**](https://www.linkedin.com/feed/update/urn:li:activity:7257032180856496128/) for competitive programming and LLM work.
 
 ---
 
@@ -59,10 +71,10 @@ In 2024, I also won a national AI + data science hackathon - featured in [**Time
 ## 📈 Recent Highlights
 
 - 🥇 **Winner**, AI & Data Science Hackathon and National Competitive Programming Competition (featured in [Times Square](https://www.linkedin.com/feed/update/urn:li:activity:7193663891158061057/) + [1871](https://www.linkedin.com/feed/update/urn:li:activity:7257032180856496128/))  
-- 🔧 **StreamGale**: Real-time AI infra using Rust and MQTT for edge inference  
-- 🚀 **Reality AI**: Built LLM-powered backend tools  
-- 📦 **Marvel Platform**: Maintained open-source platform for collaborative research tools  
-- 🌍 **[GitLab Contributor](https://gitlab.com/richie_ctr360)**: Wrote tests, resolved issues, and contributed to GraphQL & RuboCop pipelines
+- 🧠 **Moonnox**: Built AI orchestration layer, context memory system, and prompt integration pipelines used in live enterprise workflows  
+- 🔧 **StreamGale** *(side project)*: Rust-based low-latency edge inference infra  
+- 📦 **Marvel Platform**: Maintained open-source tools for collaborative research workflows  
+- 🌍 **[GitLab Contributor](https://gitlab.com/richie_ctr360)**: Contributed to GraphQL testing and RuboCop pipelines
 
 ---
 
